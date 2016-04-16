@@ -1,0 +1,12 @@
+{
+    "name": "hub-breadcrumb",
+    "description": "hub-breadcrumb component",
+    "styles": ["styles.css"],
+    "scripts": ["index.js"],
+    "templates": ["template.html"],
+    "main": "index.js",
+    "dependencies": {
+        "serandomps/dust": "master",
+        "serandomps/serand": "master"
+    }
+}
